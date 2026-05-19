@@ -1,5 +1,5 @@
 {
-  "version": "5.2.1",
+  "version": "5.2.2",
   "profiles": {
     "all": {
       "downloadUrl": "https://github.com/Jhonvf20/jvf-io-chrome-advanced/releases/latest/download/jvfio-expert.zip"
@@ -11,6 +11,6 @@
       "downloadUrl": "https://github.com/Jhonvf20/jvf-io-chrome-advanced/releases/latest/download/jvfio-dev.zip"
     }
   },
-  "changelog": "Mejoras de rendimiento en Trace Inspector y correcciones",
-  "releasedAt": "2026-05-16"
+  "changelog": "Mejora visibilidad Listado",
+  "releasedAt": "2026-05-19"
 }
