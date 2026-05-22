@@ -1,5 +1,5 @@
 {
-  "version": "5.2.2",
+  "version": "5.2.3",
   "profiles": {
     "all": {
       "downloadUrl": "https://github.com/Jhonvf20/jvf-io-chrome-advanced/releases/latest/download/jvfio-expert.zip"
@@ -11,6 +11,6 @@
       "downloadUrl": "https://github.com/Jhonvf20/jvf-io-chrome-advanced/releases/latest/download/jvfio-dev.zip"
     }
   },
-  "changelog": "Mejora visibilidad Listado",
-  "releasedAt": "2026-05-19"
+  "changelog": "FIX force get Log",
+  "releasedAt": "2026-05-22"
 }
