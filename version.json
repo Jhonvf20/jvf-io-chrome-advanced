@@ -1,5 +1,5 @@
 {
-  "version": "5.3.0",
+  "version": "5.3.1",
   "profiles": {
     "all": {
       "downloadUrl": "https://github.com/Jhonvf20/jvf-io-chrome-advanced/releases/latest/download/jvfio-expert.zip"
@@ -11,6 +11,6 @@
       "downloadUrl": "https://github.com/Jhonvf20/jvf-io-chrome-advanced/releases/latest/download/jvfio-dev.zip"
     }
   },
-  "changelog": "Cambios estructurales y FIX",
-  "releasedAt": "2026-07-03"
+  "changelog": "Inclusion shortcuts",
+  "releasedAt": "2026-09-18"
 }
